@@ -1,0 +1,53 @@
+div.back {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  background:   url("http://wallpapercave.com/wp/gCqWjfd.jpg") no-repeat center center fixed;
+  background-size:cover;
+}
+
+div.box {
+    width: 60%;
+    margin: 5% 20%;
+    height: 50%;
+    background-color: lightgrey;
+    opacity:0.5;
+    
+}
+div.box h1 {
+  color:black;
+  text-align:center;
+  font-family:"Pacifico";
+}
+button.new {
+    border: none;
+    color: black;
+    font-size: 16px;
+    font-family:Cabin;
+    font-weight:bold;
+    margin:2% 2% 0% 70%;
+    padding:0px;
+    outline:0;
+  
+}
+p.text{
+  color:black;
+  font-weight:bold;
+  font-family:"Indie Flower";
+  padding:15px 25px 0px;
+  text-align:left;
+  font-size:30px;
+  margin:0px;
+  
+}
+p.author {
+  color:black;
+  font-weight:bold;
+  font-family:"Indie Flower";
+  padding:0px 20px;
+  font-size:20px;
+  text-align:right;
+  margin:0px;
+}
